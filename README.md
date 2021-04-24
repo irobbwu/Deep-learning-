@@ -4,27 +4,29 @@
 
 #### Assignments
 
-- hw 1).  Regression
-- hw 2).  Classification
-- hw 3).  CNN
-- hw 4).  RNN
-- hw 5).  Explainable AI
-- hw 6).  Adversarial Attack
-- hw 7).  Network Compression
-- hw 8).  Seq2Seq
-- hw 9).  Unsupervised Learning
+- hw1).  Regression
+- hw2).  Classification
+- hw3).  CNN
+- hw4).  RNN
+- hw5).  Explainable AI
+- hw6).  Adversarial Attack
+- hw7).  Network Compression
+- hw8).  Seq2Seq
+- hw9).  Unsupervised Learning
 
-- hw 10).  Anomaly Detection
+- hw10).  Anomaly Detection
 
-- hw 11).  GAN
+- hw11).  GAN
 
-- hw 12).  Transfer Learning
+- hw12).  Transfer Learning
 
-- hw 13).  Meta Learning
+- hw13).  Meta Learning
 
-- hw 14).  Life Long Learning
+- hw14).  Life Long Learning
 
-- hw 15).  Reinforcement Learning
+- hw15).  Reinforcement Learning
+
+
 
 
 
