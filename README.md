@@ -4,25 +4,27 @@
 
 #### Assignments
 
-- 1. Regression
-- 2. Classification
-- 3. CNN
-- 4. RNN
-- 5. Explainable AI
-- 6. Adversarial Attack
-- 7. Network Compression
-- 8. Seq2Seq
-- 9. Unsupervised Learning
+- 1).  Regression
+- 2).  Classification
+- 3).  CNN
+- 4).  RNN
+- 5).  Explainable AI
+- 6).  Adversarial Attack
+- 7).  Network Compression
+- 8).  Seq2Seq
+- 9).  Unsupervised Learning
 
-- 10. Anomaly Detection
+- 10).  Anomaly Detection
 
-- 11. GAN
+- 11).  GAN
 
-- 12. Transfer Learning
+- 12).  Transfer Learning
 
-- 13. Meta Learning
+- 13).  Meta Learning
 
-- 14. Life Long Learning
+- 14).  Life Long Learning
 
-- 15. Reinforcement Learning
+- 15).  Reinforcement Learning
+
+
 
