@@ -1,4 +1,4 @@
-# Deep-learning
+# Deep-learning-ML2020-Spring
 
 李宏毅2020最新的深度学习课程：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html, assignment 解答
 
